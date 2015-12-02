@@ -27,7 +27,7 @@ function __autoload($className)
 function __($text)
 {
     //TODO: Write your own translation code here
-    echo $text;
+
 }
 
 function debug($msg)
